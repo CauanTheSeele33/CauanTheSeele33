@@ -30,7 +30,7 @@ Projeto acadêmico desenvolvido em **C** para a disciplina de **Algoritmos e Pro
 🔗 **Recursos do Projeto**:
 - [**Código Parcial**](https://www.onlinegdb.com/aWw7LNUPi)
 - [**Código Final**](https://www.onlinegdb.com/t1lQ04s40)
-- [**Animação SIC MUNDUS**](https://youtu.be/kOnvbYrvn-4?si=t0_n2eekxWNzH9k0)
+- [**Animação SIC MUNDUS**](https://youtu.be/Ho4VTvK4V3Q?si=EepGXiCPtZpZTE0z)
 - [**Relatório de Documentação do Projeto**](https://drive.google.com/file/d/17H4VnktBB3eaQ5giRp3veBbYfSIhjRpE/view)
 
 ---
