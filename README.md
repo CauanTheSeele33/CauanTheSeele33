@@ -1,122 +1,130 @@
 # Olá, eu sou Cauan Gabriel Matos Silva! 👋
 
+<div align="center">
+  
 ![Retro Developer Coding](https://i.pinimg.com/originals/34/ac/31/34ac31c2ab7103586c407ec93ee15e7d.gif)
+</div>
 
-![CauanTheSeele33's Stats](https://github-readme-stats.vercel.app/api?username=CauanTheSeele33&theme=radical&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
+<div align="center">
 
-![Profile Trophy](https://github-profile-trophy.vercel.app/?username=CauanTheSeele33&theme=dracula&no-frame=true&margin-w=15&margin-h=15)
+![Cauan33XL's Stats](https://github-readme-stats.vercel.app/api?username=Cauan33XL&theme=radical&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
+![Profile Trophy](https://github-profile-trophy.vercel.app/?username=Cauan33XL&theme=dracula&no-frame=true&margin-w=15&margin-h=15)
 
-Desenvolvedor em formação apaixonado por **projetos práticos** que exploram **desenvolvimento web**, **animações temáticas** e **inteligência artificial**. Dedico-me a aprender novas tecnologias, aprimorar habilidades e contribuir para soluções inovadoras no mundo da TI.
+</div>
+
+Desenvolvedor em formação apaixonado por **projetos práticos** que exploram **cibersegurança**, **desenvolvimento web**, **game development** e **inteligência artificial**. Dedico-me a aprender novas tecnologias, aprimorar habilidades e contribuir para soluções inovadoras no mundo da TI.
 
 ---
 
 ## 📊 Estatísticas no GitHub
 
-![CauanTheSeele33's Streak](https://github-readme-streak-stats.herokuapp.com/?user=CauanTheSeele33&theme=radical&hide_border=true&stroke=ffffff&background=0D1117&ring=DD2727&fire=DD2727&currStreakLabel=ffffff)
+<div align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CauanTheSeele33&bg_color=0D1117&color=ffffff&line=DD2727&point=ffffff&area=true&hide_border=true)
+![Cauan33XL's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Cauan33XL&theme=radical&hide_border=true&stroke=ffffff&background=0D1117&ring=DD2727&fire=DD2727&currStreakLabel=ffffff)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Cauan33XL&bg_color=0D1117&color=ffffff&line=DD2727&point=ffffff&area=true&hide_border=true)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Cauan33XL.Cauan33XL&left_color=0D1117&right_color=DD2727&left_text=Visitors)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=CauanTheSeele33.CauanTheSeele33&left_color=0D1117&right_color=DD2727&left_text=Visitors)
+</div>
 
 ---
 
 ## 🚀 Projetos Destacados
 
-Aqui estão alguns dos meus repositórios principais, com foco em experimentação e inovação:
+### 🔐 **Projetos de Segurança**
 
-[![Rei das Mordidas](https://github-readme-stats.vercel.app/api/pin/?username=CauanTheSeele33&repo=Rei-Das-Mordidas&theme=radical&hide_border=true)](https://github.com/CauanTheSeele33/Rei-Das-Mordidas)
+[![SecureFlag CTF](https://github-readme-stats.vercel.app/api/pin/?username=Cauan33XL&repo=yaldabaoth-home-ctf-project&theme=radical&hide_border=true)](https://github.com/Cauan33XL/yaldabaoth-home-ctf-project)
+[![SecureFlag Bank](https://github-readme-stats.vercel.app/api/pin/?username=Cauan33XL&repo=yaldabaoth-email-corporate-ctf-project&theme=radical&hide_border=true)](https://github.com/Cauan33XL/yaldabaoth-email-corporate-ctf-project)
 
-[![Projeto Sic Mundus](https://github-readme-stats.vercel.app/api/pin/?username=CauanTheSeele33&repo=Projeto-Sic-Mundus&theme=radical&hide_border=true)](https://github.com/CauanTheSeele33/Projeto-Sic-Mundus)
+**🚩 SecureFlag CTF** - Projeto acadêmico de cibersegurança com simulação de ataque forense a banco fictício. Desenvolvido em equipe para a UNICEPLAC.
 
-### 🍔 **Rei das Mordidas** - Catálogo de Hambúrgueres
-
-![Retro Web Dev](https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyMzdicGdnaHk1MDlqNHZya2E3NjFudDI4M3VtZ2E3eGJmYmRieHRmbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QWkuGmMgphvmE/source.gif)
-
-Um catálogo interativo de hambúrgueres construído com **HTML/CSS**, hospedado via **FileZilla** no **InfinityFree**. Este projeto enfatiza **design responsivo** e **práticas de hospedagem web**, demonstrando habilidades em desenvolvimento front-end experimental.
-
-🔗 [**Acesse o Projeto no GitHub**](https://github.com/CauanTheSeele33/Rei-Das-Mordidas?tab=readme-ov-file)
+- **Tecnologias**: React, Docker, CTFd, HTML5/CSS3
+- **Período**: 2025
+- **Demonstrações**: [Yaldabaoth Home](https://cauan33xl.github.io/yaldabaoth-home-ctf-project/) • [Yaldabaoth Bank](https://cauan33xl.github.io/yaldabaoth-email-corporate-ctf-project/)
 
 ---
 
-### 🎓 **Projeto SIC MUNDUS - UNICEPLAC**
+### 🎮 **Projetos Web**
 
-![Retro Code Compilation](https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif)
+[![HTML5 Game Experiments](https://github-readme-stats.vercel.app/api/pin/?username=Cauan33XL&repo=html5-game-experiments&theme=radical&hide_border=true)](https://github.com/Cauan33XL/html5-game-experiments)
+[![Rei das Mordidas](https://github-readme-stats.vercel.app/api/pin/?username=Cauan33XL&repo=Rei-Das-Mordidas&theme=radical&hide_border=true)](https://github.com/Cauan33XL/Rei-Das-Mordidas)
 
-Projeto acadêmico em **C** para a disciplina de **Algoritmos e Programação**. Inclui desenvolvimento de código e criação de animações temáticas com **After Effects** e **Photoshop**, integrando programação com design multimídia.
+**🕹️ HTML5 Game Experiments** - Hub central para experimentos com Canvas e desenvolvimento de jogos web interativos.
 
-- **Período de Desenvolvimento**: 24/05/2024 a 12/06/2024
-- **Objetivo**: Complementar o tema acadêmico com animações inovadoras.
-  
-🔗 [**Acesse o Projeto no GitHub**](https://github.com/CauanTheSeele33/Projeto-Sic-Mundus)
-
-🔗 **Recursos do Projeto**:
-- [**Código Parcial**](https://www.onlinegdb.com/aWw7LNUPi)
-- [**Código Final**](https://www.onlinegdb.com/t1lQ04s40)
-- [**Animação SIC MUNDUS**](https://youtu.be/Ho4VTvK4V3Q?si=EepGXiCPtZpZTE0z)
-- [**Relatório de Documentação**](https://drive.google.com/file/d/17H4VnktBB3eaQ5giRp3veBbYfSIhjRpE/view)
+**🍔 Rei das Mordidas** - Catálogo interativo de hambúrgueres com design responsivo e hospedagem profissional.
 
 ---
 
-### 📊 **Workshop de Inteligência Artificial - Imersão Zero**
+### ⚙️ **Projetos em C**
 
-![Retro AI Processing](https://bigthink.com/wp-content/uploads/2021/03/origin.gif?w=869&h=472&crop=1)
+[![Projeto Sic Mundus](https://github-readme-stats.vercel.app/api/pin/?username=Cauan33XL&repo=Projeto-Sic-Mundus&theme=radical&hide_border=true)](https://github.com/Cauan33XL/Projeto-Sic-Mundus)
 
-Apresentação sobre **IA textual e generativa** para jovens aprendizes no **Sest Senat**, utilizando **PowerPoint**. Foco em conceitos acessíveis, promovendo a experimentação com tecnologias emergentes.
+**🔮 Projeto SIC MUNDUS** - Integração entre programação em C e design multimídia com animações em After Effects.
 
-🔗 [**Acesse os Slides do Workshop**](https://docs.google.com/presentation/d/1RBrXQhRXhrUuG3CoDfgcNAEwKUJ-3_Eq/edit?pli=1#slide=id.p1)
-
----
-
-### 📘 **Códigos em C - Primeira Atividade**
-
-![Retro Algorithm Animation](https://i.pinimg.com/originals/cb/67/e9/cb67e94f7dc44ac7ea0c333a8e44fc1f.gif)
-
-Atividade inicial em **C** no curso de **Análise e Desenvolvimento de Sistemas (ADS)** na **UNICEPLAC**. Ênfase em **lógica de programação** e **fundamentos estruturados**, servindo como base para projetos experimentais.
-
-🔗 [**Acesse os Códigos da Atividade**](https://www.onlinegdb.com/3ysgPctRG)
+- **Recursos**: [Animação](https://youtu.be/Ho4VTvK4V3Q) • [Códigos Online](https://www.onlinegdb.com/t1lQ04s40) • [Documentação](https://drive.google.com/file/d/17H4VnktBB3eaQ5giRp3veBbYfSIhjRpE/view)
 
 ---
 
 ## 🔧 Stack Tecnológico
 
-![CauanTheSeele33's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CauanTheSeele33&theme=radical&show_icons=true&hide_border=true&layout=compact)
+![Cauan33XL's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cauan33XL&theme=radical&show_icons=true&hide_border=true&layout=compact)
 
-- **Linguagens de Programação**:
-  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<div align="center">
 
-- **Ferramentas de Desenvolvimento**:
-  - **FileZilla** para gerenciamento FTP
-  - **InfinityFree** para hospedagem gratuita com SSL
-  - **GDB Compiler** para programação em C
-  - **Eclipse** para desenvolvimento Java
-  - **Visual Studio** para programação web
-  
-- **Design e Multimídia**:
-  - **Kdenlive** para edição de vídeos
-  - **Photoshop** para manipulação de imagens
-  - **PowerPoint** para apresentações profissionais
-  ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+### 💻 **Linguagens & Ferramentas**
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### 🛠 **Ferramentas de Desenvolvimento**
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+
+</div>
 
 ---
 
 ## 🌐 Conecte-se Comigo
 
+<div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cauan-gabriel-matos-silva/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CauanTheSeele33)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cauangabrielmatossilva@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Cauan33XL)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cauan33XL@proton.me)
+
+</div>
 
 ---
 
-🚀 **Pronto para colaborar?** Estou aberto a discussões sobre projetos inovadores, mentoria e oportunidades em TI. Vamos impulsionar ideias experimentais juntos! 💡
+## 🎯 Status & Metas
+
+**🌱 Aprendizado Atual:**
+- Elicitação em Cibersegurança e perícia computacional
+- Desenvolvimento de jogos com HTML5 Canvas
+- Frameworks web modernos (React, Node.js, Angular)
+- Inteligência Artificial em Aplicativos e Projetos
+
+**🚀 Objetivos em Desenvolvimento:**
+- Aprimorar e Melhorar a integração das Páginas Yaldabaoth ao Sistema do CTF SecureFlag
+- Desenvolver jogos funcionais no hub HTML5 com uma Interface
+- Participar de competições de segurança do Projeto CTF SecureFlag
+- Contribuir para diversos projetos open-source
 
 ---
 
-### 🌱 Aprendizado Atual
+<div align="center">
 
-- **Inteligência Artificial** e suas aplicações práticas
-- **Frameworks Web** como Spring Boot e Bootstrap
-- **Animações 2D**, **Edição Multimídia** e **Normas ABNT** para documentação
+### 💡 **Pronto para colaborar?**
+Estou aberto a discussões sobre projetos inovadores, mentoria e oportunidades em TI. 
+Vamos impulsionar ideias experimentais juntos! 🚀
+
+*"O código é a poesia da lógica, e cada projeto é um verso nessa jornada digital."*
+
+</div>
