@@ -121,7 +121,7 @@ Atividade inicial em **C** no curso de **Análise e Desenvolvimento de Sistemas 
 - **Frameworks Web** como Spring Boot e Bootstrap
 - **Animações 2D**, **Edição Multimídia** e **Normas ABNT** para documentação
 
-![Tech Learning](https://user-images.githubusercontent.com/74038190/212284164-662b26f5-a2e4-49cb-b675-4af56e609afa.gif)
+![Tech Learning](https://cdnb.artstation.com/p/assets/images/images/055/840/231/original/alexandre-etendard-360.gif?1667870399)
 
 ---
 
