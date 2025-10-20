@@ -1,6 +1,6 @@
 # Olá, eu sou Cauan Gabriel Matos Silva! 👋
 
-![Developer Coding](https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif)
+![Retro Developer Coding](https://i.pinimg.com/originals/34/ac/31/34ac31c2ab7103586c407ec93ee15e7d.gif)
 
 ![CauanTheSeele33's Stats](https://github-readme-stats.vercel.app/api?username=CauanTheSeele33&theme=radical&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
 
@@ -30,7 +30,7 @@ Aqui estão alguns dos meus repositórios principais, com foco em experimentaç�
 
 ### 🍔 **Rei das Mordidas** - Catálogo de Hambúrgueres
 
-![Web Dev Animation](https://user-images.githubusercontent.com/74038190/212257467-09b69657-9b9c-4d3f-9e8e-728acfca3d5a.gif)
+![Retro Web Dev](https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyMzdicGdnaHk1MDlqNHZya2E3NjFudDI4M3VtZ2E3eGJmYmRieHRmbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QWkuGmMgphvmE/source.gif)
 
 Um catálogo interativo de hambúrgueres construído com **HTML/CSS**, hospedado via **FileZilla** no **InfinityFree**. Este projeto enfatiza **design responsivo** e **práticas de hospedagem web**, demonstrando habilidades em desenvolvimento front-end experimental.
 
@@ -40,7 +40,7 @@ Um catálogo interativo de hambúrgueres construído com **HTML/CSS**, hospedado
 
 ### 🎓 **Projeto SIC MUNDUS - UNICEPLAC**
 
-![Code Compilation](https://user-images.githubusercontent.com/74038190/212257462-1ce8f3fa-9e3e-4a6b-9e66-d4303008e760.gif)
+![Retro Code Compilation](https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif)
 
 Projeto acadêmico em **C** para a disciplina de **Algoritmos e Programação**. Inclui desenvolvimento de código e criação de animações temáticas com **After Effects** e **Photoshop**, integrando programação com design multimídia.
 
@@ -59,7 +59,7 @@ Projeto acadêmico em **C** para a disciplina de **Algoritmos e Programação**.
 
 ### 📊 **Workshop de Inteligência Artificial - Imersão Zero**
 
-![AI Processing](https://user-images.githubusercontent.com/74038190/212281756-450d3ffa-9335-4b98-a965-db8a18fee927.gif)
+![Retro AI Processing](https://bigthink.com/wp-content/uploads/2021/03/origin.gif?w=869&h=472&crop=1)
 
 Apresentação sobre **IA textual e generativa** para jovens aprendizes no **Sest Senat**, utilizando **PowerPoint**. Foco em conceitos acessíveis, promovendo a experimentação com tecnologias emergentes.
 
@@ -69,7 +69,7 @@ Apresentação sobre **IA textual e generativa** para jovens aprendizes no **Ses
 
 ### 📘 **Códigos em C - Primeira Atividade**
 
-![Algorithm Animation](https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif)
+![Retro Algorithm Animation](https://i.pinimg.com/originals/cb/67/e9/cb67e94f7dc44ac7ea0c333a8e44fc1f.gif)
 
 Atividade inicial em **C** no curso de **Análise e Desenvolvimento de Sistemas (ADS)** na **UNICEPLAC**. Ênfase em **lógica de programação** e **fundamentos estruturados**, servindo como base para projetos experimentais.
 
@@ -120,13 +120,3 @@ Atividade inicial em **C** no curso de **Análise e Desenvolvimento de Sistemas 
 - **Inteligência Artificial** e suas aplicações práticas
 - **Frameworks Web** como Spring Boot e Bootstrap
 - **Animações 2D**, **Edição Multimídia** e **Normas ABNT** para documentação
-
-![Tech Learning](https://cdnb.artstation.com/p/assets/images/images/055/840/231/original/alexandre-etendard-360.gif?1667870399)
-
----
-
-### 🐍 Contribuições no GitHub (Animação Snake)
-
-![GitHub Snake](https://github.com/CauanTheSeele33/CauanTheSeele33/blob/output/github-contribution-grid-snake-dark.svg)
-
-*Nota: Configure um workflow no repositório para ativar a animação snake: https://github.com/Platane/snk*
