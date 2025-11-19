@@ -8,7 +8,8 @@
 <div align="center">
 
 ![Cauan33XL's Stats](https://github-readme-stats.vercel.app/api?username=Cauan33XL&theme=radical&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
-![Profile Trophy](https://github-profile-trophy.vercel.app/?username=Cauan33XL&theme=dracula&no-frame=true&margin-w=15&margin-h=15)
+
+![Isometric Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cauan33XL&theme=dracula)
 
 </div>
 
