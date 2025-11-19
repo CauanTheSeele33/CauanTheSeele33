@@ -64,9 +64,14 @@ Desenvolvedor em formação apaixonado por **projetos práticos** que exploram *
 
 ---
 
+
 ## 🔧 Stack Tecnológico
 
+<div align="center">
+
 ![Cauan33XL's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cauan33XL&theme=radical&show_icons=true&hide_border=true&layout=compact)
+
+</div>
 
 <div align="center">
 
