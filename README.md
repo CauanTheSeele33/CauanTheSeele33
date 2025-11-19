@@ -43,7 +43,7 @@ Desenvolvedor em formação apaixonado por **projetos práticos** que exploram *
 
 ---
 
-### 🎮 **Projetos Web**
+### 🎮 **Projetos Websites e Games Canvas (HTML5 + CSS + JS)**
 
 [![HTML5 Game Experiments](https://github-readme-stats.vercel.app/api/pin/?username=Cauan33XL&repo=html5-game-experiments&theme=radical&hide_border=true)](https://github.com/Cauan33XL/html5-game-experiments)
 [![Rei das Mordidas](https://github-readme-stats.vercel.app/api/pin/?username=Cauan33XL&repo=Rei-Das-Mordidas&theme=radical&hide_border=true)](https://github.com/Cauan33XL/Rei-Das-Mordidas)
