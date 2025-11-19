@@ -2,7 +2,7 @@
 
 <div align="center">
   
-![Retro Developer Coding](https://i.pinimg.com/originals/34/ac/31/34ac31c2ab7103586c407ec93ee15e7d.gif)
+![Retro Developer Coding](Assets/computador.gif)
 </div>
 
 <div align="center">
