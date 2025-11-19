@@ -32,14 +32,14 @@ Desenvolvedor em formação apaixonado por **projetos práticos** que exploram *
 
 ### 🔐 **Projetos de Segurança**
 
-[![SecureFlag CTF](https://github-readme-stats.vercel.app/api/pin/?username=Cauan33XL&repo=yaldabaoth-home-ctf-project&theme=radical&hide_border=true)](https://github.com/Cauan33XL/yaldabaoth-home-ctf-project)
-[![SecureFlag Bank](https://github-readme-stats.vercel.app/api/pin/?username=Cauan33XL&repo=yaldabaoth-email-corporate-ctf-project&theme=radical&hide_border=true)](https://github.com/Cauan33XL/yaldabaoth-email-corporate-ctf-project)
+[![SecureFlag CTF](https://github-readme-stats.vercel.app/api/pin/?username=Cauan33XL&repo=CTF-Yaldabaoth-Home-Bank&theme=radical&hide_border=true)](https://github.com/Cauan33XL/CTF-Yaldabaoth-Home-Bank)
+[![SecureFlag Bank](https://github-readme-stats.vercel.app/api/pin/?username=Cauan33XL&repo=CTF-Yaldabaoth-Corporate-Email&theme=radical&hide_border=true)](https://github.com/Cauan33XL/CTF-Yaldabaoth-Corporate-Email)
 
 **🚩 SecureFlag CTF** - Projeto acadêmico de cibersegurança com simulação de ataque forense a banco fictício. Desenvolvido em equipe para a UNICEPLAC.
 
 - **Tecnologias**: React, Docker, CTFd, HTML5/CSS3
 - **Período**: 2025
-- **Demonstrações**: [Yaldabaoth Home](https://cauan33xl.github.io/yaldabaoth-home-ctf-project/) • [Yaldabaoth Bank](https://cauan33xl.github.io/yaldabaoth-email-corporate-ctf-project/)
+- **Demonstrações**: [Yaldabaoth Home](https://yaldabaoth-bank-home-ctf.vercel.app/) • [Yaldabaoth Bank](https://yaldabaoth-bank-email-ctf.vercel.app/)
 
 ---
 
