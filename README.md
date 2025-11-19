@@ -32,8 +32,8 @@ Desenvolvedor em formação apaixonado por **projetos práticos** que exploram *
 
 ### 🔐 **Projetos de Segurança**
 
-[![SecureFlag CTF](https://github-readme-stats.vercel.app/api/pin/?username=Cauan33XL&repo=CTF-Yaldabaoth-Home-Bank&theme=radical&hide_border=true)](https://github.com/Cauan33XL/CTF-Yaldabaoth-Home-Bank)
-[![SecureFlag Bank](https://github-readme-stats.vercel.app/api/pin/?username=Cauan33XL&repo=CTF-Yaldabaoth-Corporate-Email&theme=radical&hide_border=true)](https://github.com/Cauan33XL/CTF-Yaldabaoth-Corporate-Email)
+[![SecureFlag Home](https://github-readme-stats.vercel.app/api/pin/?username=Cauan33XL&repo=CTF-Yaldabaoth-Home-Bank&theme=radical&hide_border=true)](https://github.com/Cauan33XL/CTF-Yaldabaoth-Home-Bank)
+[![SecureFlag Email](https://github-readme-stats.vercel.app/api/pin/?username=Cauan33XL&repo=CTF-Yaldabaoth-Corporate-Email&theme=radical&hide_border=true)](https://github.com/Cauan33XL/CTF-Yaldabaoth-Corporate-Email)
 
 **🚩 SecureFlag CTF** - Projeto acadêmico de cibersegurança com simulação de ataque forense a banco fictício. Desenvolvido em equipe para a UNICEPLAC.
 
